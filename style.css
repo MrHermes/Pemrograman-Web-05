@@ -1,0 +1,12 @@
+body{
+    background-image: linear-gradient(#d0d0d0, #ededed, #d0d0d0);
+}
+
+#main-image{
+    cursor: pointer;
+    transition: all .4s ease-in-out;
+}
+
+#main-image:hover{
+    transform: scale(1.05);
+}
